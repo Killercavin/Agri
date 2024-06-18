@@ -1,0 +1,1993 @@
+@media screen and (max-width: 1200px) {
+    nav {
+        max-width: 1200px;
+    }
+    footer{
+        max-width: 1200px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center; 
+    }
+    section {
+        max-width: 1200px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+    }
+
+    .all-sections {
+        width: 1000px;
+    }
+
+    .input_field {
+        margin: 0 auto;
+    }
+
+    .input_field input {
+        margin: 0 auto;
+    }
+    .carousel_arrow{
+        margin-top: 30px;
+    }
+    .down_footer{
+        gap: 50px;
+    }
+    .footer_link ul li a{
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 1100px) and (min-width: 950px) {
+    nav {
+        max-width: 1100px;
+    }
+
+    .menu ul {
+        margin: 0px 100px;
+    }
+
+    footer {
+        max-width: 1100px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+    }
+
+    section {
+        max-width: 1100px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+    }
+
+    .all-sections {
+        width: 900px;
+    }
+    .carl{
+        left: 200px;
+    }
+    .carousel_arrow{
+        margin-top: 30px;
+    }
+    .down_footer{
+        gap: 30px;
+    }
+    .footer_link ul li a{
+        font-size: 15px;
+    }
+    .newsletter{
+        width: 280px;
+    }
+    .newsletter h3 {
+        margin: 0 auto;
+        margin-top: 20px;
+        width: 250px;
+    }
+    .newsletter p {
+        margin: 0 auto;
+        margin-top: 20px;
+        width: 250px;
+    }
+    .input_fields{
+        width: 250px;
+        margin: 0 auto;
+    }
+    .input_fields input {
+        margin-left: 0px;
+    }
+    .input_fields form{
+        width: 250px;
+     }
+    .input_fields button {
+        padding: 0px 10px;
+    }
+}
+
+@media screen and (max-width: 949px) and (min-width: 801px) {
+    nav {
+        max-width: 949px;
+    }
+
+    .menu ul li {
+        padding: 0px 10px;
+    }
+
+    .menu ul {
+        margin: 0px 80px;
+    }
+
+    footer {
+        max-width: 949px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+    }
+
+    section {
+        max-width: 949px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+    }
+
+    .all-sections {
+        width: 700px;
+    }
+
+    .log {
+        background-color: #FF9933;
+        color: #fff;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 4px;
+    }
+
+    .sign {
+        background-color: #fff;
+        color: #0F6735;
+        padding: 10px 20px;
+        border: 1px solid #0F6735;
+        border-radius: 4px;
+    }
+    .carousel_arrow{
+        margin-top: 30px;
+    }
+    .about_agri {
+        display: flex;
+        margin-bottom: 80px;
+    }
+    .about_agri-text {
+        width: 387px;
+        margin-left: 30px;
+    }
+    .seller_img {
+        width: 80px;
+        height: 80px;
+        margin: 0 auto;
+    }
+    .rectangle {
+        width: 427px;
+        margin: 0 auto;
+    }
+    .carl{
+        left: 150px;
+    }
+    .testimonial_card{
+        gap: 10px;
+    }
+    .customer{
+        width: 260px;
+        align-items: center;
+    }
+    .customer_img{
+        width: 40px;
+    }
+    .customer_img img{
+        width: 100%;
+    }
+    .star_svg svg{
+        font-size: 10px;
+        align-items: center;
+    }
+    .test_card{
+        width: 260px;
+        height: auto;
+        padding-bottom: 20px;
+    }
+    .accordion-item {
+        width: 500px !important;
+    }
+    .down_footer{
+        gap: 10px;
+    }
+    .footer_link ul li a{
+        font-size: 13px;
+    }
+    .footer_link ul li a svg{
+        font-size: 15px;
+    }
+    .footer_link h3{
+        font-size: 12px;
+        margin: 0;
+        margin-top: 20px;
+    }
+    .newsletter{
+        width: 250px;
+    }
+    .newsletter h3 {
+        margin: 0 auto;
+        margin-top: 20px;
+        width: 230px;
+    }
+    .newsletter p {
+        margin: 0 auto;
+        margin-top: 20px;
+        width: 230px;
+    }
+    .input_fields{
+        width: 230px;
+        margin: 0 auto;
+    }
+    .input_fields input {
+        margin-left: 0px;
+    }
+    .input_fields form{
+        width: 230px;
+        height: 30px;
+     }
+    .input_fields button {
+        padding: 0px 5px;
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width: 800px) and (min-width: 769px) {
+    nav {
+        max-width: 800px;
+    }
+
+    .menu ul li {
+        padding: 0px 10px;
+    }
+
+    .menu ul {
+        margin: 0px 20px;
+    }
+
+    footer {
+        max-width: 800px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+    }
+
+    section {
+        max-width: 800px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+    }
+
+    .all-sections {
+        width: 650px;
+    }
+
+    .logo {
+        width: 100px;
+    }
+
+    .log {
+        background-color: #FF9933;
+        color: #fff;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 4px;
+    }
+
+    .sign {
+        background-color: #fff;
+        color: #0F6735;
+        padding: 10px 20px;
+        border: 1px solid #0F6735;
+        border-radius: 4px;
+    }
+
+    .input_field {
+        width: 500px;
+        margin: 0 auto;
+    }
+
+    .input_field input {
+        margin: 0 auto;
+    }
+    .all_product{
+        gap: 10px;
+    }
+    .product_card{
+        width: 150px;
+        height: 180px;
+        background-color: #fff;
+        box-shadow: 0px 4px 4px 0px rgba(73, 73, 73, 0.25);
+        border-radius: 8px;
+    }
+    .product_img{
+        width: 150px;
+        border-radius: 8px;
+    }
+    .product_name h3{
+        margin: 0;
+        font-size: 10px;
+        font-weight: 600;
+        color: #FF9933;
+    }
+    .product_name p{
+        margin: 0;
+        font-size: 12px;
+    }
+    .carousel_arrow{
+        margin-top: 30px;
+    }
+    .about_agri {
+        display: flex;
+        margin-bottom: 80px;
+    }
+    .about_agri-text {
+        width: 387px;
+        margin-left: 30px;
+    }
+    .seller_img {
+        width: 80px;
+        height: 80px;
+        margin: 0 auto;
+    }
+    .rectangle {
+        width: 427px;
+        margin: 0 auto;
+    }
+    .carl{
+        left: 100px;
+    }
+    .testimonial_card{
+        gap: 20px;
+    }
+    .customer{
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        width: 200px;
+    }
+    .customer_img{
+        width: 40px;
+    }
+    .customer_img img{
+        width: 100%;
+    }
+    .star_svg svg{
+        font-size: 10px;
+    }
+    .test_card{
+        width: 200px;
+        height: auto;
+    }
+    .accordion-item {
+        width: 500px !important;
+    }
+    .down_footer{
+        gap: 20px;
+    }
+    .footer_link ul li a{
+        font-size: 10px;
+    }
+    .footer_link ul li a svg{
+        font-size: 15px;
+    }
+    .footer_link h3{
+        font-size: 12px;
+        margin: 0;
+        margin-top: 20px;
+    }
+    .newsletter{
+        width: 250px;
+    }
+    .newsletter h3 {
+        margin: 0 auto;
+        margin-top: 20px;
+        width: 230px;
+    }
+    .newsletter p {
+        margin: 0 auto;
+        margin-top: 20px;
+        width: 230px;
+        font-size: 12px;
+    }
+    .input_fields{
+        width: 230px;
+        margin: 0 auto;
+    }
+    .input_fields input {
+        margin-left: 0px;
+    }
+    .input_fields form{
+        width: 230px;
+        height: 30px;
+     }
+    .input_fields button {
+        padding: 0px 5px;
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width:768px) and (min-width: 601px) {
+    nav {
+        max-width: 768px;
+    }
+
+    .navbar {
+        gap: 200px;
+    }
+
+    .menu ul li {
+        padding: 10px 10px;
+    }
+
+    .menu ul {
+        margin: 0px 0px;
+    }
+    footer {
+        max-width: 768px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+    }
+    .menu ul li a {
+        color: #fff;
+    }
+
+    .menu ul li a:hover {
+        color: #FF9933;
+        cursor: pointer;
+    }
+
+    .all-sections {
+        width: 520px !important;
+    }
+
+    .hambuger {
+        display: block;
+    }
+
+    .hambuger.active .bar:nth-child(2) {
+        opacity: 0;
+    }
+
+    .hambuger.active .bar:nth-child(1) {
+        transform: translateY(8px) rotate(45deg);
+    }
+
+    .hambuger.active .bar:nth-child(3) {
+        transform: translateY(-8px) rotate(-45deg);
+    }
+
+    .btn {
+        display: none;
+    }
+
+    .btn2 {
+        display: block;
+        flex-direction: column;
+    }
+
+    .index {
+        margin-top: 50px;
+    }
+
+    .nav-menu {
+        position: fixed;
+        left: -100%;
+        top: 70px;
+        height: 100vh;
+        flex-direction: column;
+        gap: 2rem;
+        padding-bottom: 9rem;
+        padding-top: 2rem;
+        width: 50%;
+        text-align: center;
+        transition: 0.5s;
+        background-color: #0F6735;
+    }
+
+    .nav-menu.active {
+        left: 0;
+    }
+
+    .logo {
+        width: 100px;
+    }
+
+    .log {
+        background-color: #FF9933;
+        color: #fff;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 4px;
+    }
+
+    .sign {
+        background-color: #fff;
+        color: #0F6735;
+        padding: 10px 20px;
+        border: 1px solid #0F6735;
+        border-radius: 4px;
+    }
+
+    .input_field {
+        width: 400px;
+        margin: 0 auto;
+    }
+
+    .input_field input {
+        width: 300px;
+        margin: 0 auto;
+    }
+    .all_product{
+        gap: 10px;
+    }
+    .products_slide{
+        margin-top: 30px;
+    }
+    .product_card{
+        width: 150px;
+        height: 180px;
+        background-color: #fff;
+        box-shadow: 0px 4px 4px 0px rgba(73, 73, 73, 0.25);
+        border-radius: 8px;
+    }
+    .product_img{
+        width: 150px;
+        border-radius: 8px;
+    }
+    .product_name h3{
+        margin: 0;
+        font-size: 10px;
+        font-weight: 600;
+        color: #FF9933;
+    }
+    .product_name p{
+        margin: 0;
+        font-size: 12px;
+    }
+    .carousel_arrow{
+        margin-top: 30px;
+    }
+    .about_agri {
+        display: flex;
+        margin-bottom: 80px;
+        flex-direction: column;
+        align-items: center;
+    }
+    .about_agri-text {
+        width: 387px;
+        margin-left: 0px;
+        text-align: center;
+    }
+    .seller_img {
+        width: 80px;
+        height: 80px;
+        margin: 0 auto;
+    }
+    .rectangle {
+        width: 327px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+    }
+    .seller_spot {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        margin-top: 50px;
+        margin-bottom: 30px;
+    }
+    .carl{
+        left: 100px;
+        display: none;
+    }
+    .test{
+        height: auto;
+        padding-bottom: 30px;
+    }
+    .testimonial_card{
+        gap: 20px;
+        align-items: center;
+    }
+    .customer{
+        flex-direction: column;
+        text-align: center;
+        width: 200px;
+    }
+    .customer_img{
+        width: 50px;
+    }
+    .customer_img img{
+        width: 100%;
+    }
+    .star_svg svg{
+        font-size: 10px;
+    }
+    .test_card{
+        width: 200px;
+        height: 300px;
+        padding-bottom: 30px;
+    }
+    .accordion-item {
+        width: 400px !important;
+    }
+    .down_footer{
+        gap: 10px;
+        flex-direction: column;
+    }
+    footer{
+        height: auto;
+        padding-bottom: 30px;
+    }
+    .footer_link ul li a{
+        font-size: 20px;
+    }
+    .footer_link ul li a svg{
+        font-size: 25px;
+    }
+    .footer_link h3{
+        font-size: 25px;
+        margin: 0;
+        margin-top: 20px;
+    }
+    .newsletter{
+        width: 100%;
+    }
+    .newsletter h3 {
+        margin: 0 auto;
+        margin-top: 20px;
+        width: 230px;
+    }
+    .newsletter p {
+        margin: 0 auto;
+        margin-top: 20px;
+        width: 230px;
+    }
+    .input_fields{
+        width: 230px;
+        margin: 0 auto;
+    }
+    .input_fields input {
+        margin-left: 0px;
+    }
+    .input_fields form{
+        width: 230px;
+        height: 30px;
+     }
+    .input_fields button {
+        padding: 0px 5px;
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width: 600px) and (min-width: 426px) {
+    * {
+        transition: all 0.5s;
+    }
+
+    nav {
+        max-width: 600px;
+    }
+
+    .navbar {
+        gap: 135px;
+    }
+
+    .menu ul li {
+        padding: 10px 10px;
+    }
+
+    .menu ul {
+        margin: 0px 0px;
+    }
+
+    .menu ul li a {
+        color: #fff;
+    }
+
+    .menu ul li a:hover {
+        color: #FF9933;
+        cursor: pointer;
+    }
+
+    footer {
+        max-width: 600px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+    }
+
+    section {
+        max-width: 600px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+    }
+
+    .first_sect {
+        height: 100vh;
+    }
+
+    .first_ban h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .first_ban p {
+        font-size: 15px;
+    }
+
+    br {
+        display: none;
+    }
+
+    .all-sections {
+        width: 400px;
+    }
+
+    .hambuger {
+        display: block;
+    }
+
+    .hambuger.active .bar:nth-child(2) {
+        opacity: 0;
+    }
+
+    .hambuger.active .bar:nth-child(1) {
+        transform: translateY(8px) rotate(45deg);
+    }
+
+    .hambuger.active .bar:nth-child(3) {
+        transform: translateY(-8px) rotate(-45deg);
+    }
+
+    .btn {
+        display: none;
+    }
+
+    .btn2 {
+        display: block;
+        flex-direction: column;
+    }
+
+    .index {
+        margin-top: 50px;
+    }
+
+    .nav-menu {
+        position: fixed;
+        left: -100%;
+        top: 70px;
+        height: 100vh;
+        flex-direction: column;
+        gap: 2rem;
+        padding-bottom: 9rem;
+        padding-top: 2rem;
+        width: 50%;
+        text-align: center;
+        transition: 0.5s;
+        background-color: #0F6735;
+    }
+
+    .nav-menu.active {
+        left: 0;
+    }
+
+    .logo {
+        width: 100px;
+    }
+
+    .log {
+        background-color: #FF9933;
+        color: #fff;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 4px;
+    }
+
+    .sign {
+        background-color: #fff;
+        color: #0F6735;
+        padding: 10px 20px;
+        border: 1px solid #0F6735;
+        border-radius: 4px;
+    }
+
+    .input_field {
+        width: 300px;
+        margin: 0 auto;
+    }
+
+    .input_field input {
+        width: 250px;
+    }
+    .second_section h2{
+        font-size: 22px;
+    }
+    .top_third h2{
+        font-size: 22px;
+    }
+    .search_icon {
+        background-color: #FF9933;
+        padding: 10px;
+        border-radius: 10px;
+        font-size: 20px;
+        color: #fff;
+        cursor: pointer;
+        margin-left: 20px;
+    }
+    .all_product{
+        gap: 10px;
+    }
+    .products_slide{
+        margin-top: 30px;
+    }
+    .product_card{
+        width: 150px;
+        height: 180px;
+        background-color: #fff;
+        box-shadow: 0px 4px 4px 0px rgba(73, 73, 73, 0.25);
+        border-radius: 8px;
+    }
+    .product_img{
+        width: 150px;
+        border-radius: 8px;
+    }
+    .product_name h3{
+        margin: 0;
+        font-size: 10px;
+        font-weight: 600;
+        color: #FF9933;
+    }
+    .product_name p{
+        margin: 0;
+        font-size: 12px;
+    }
+    .carousel_arrow{
+        margin-top: 30px;
+    }
+    .arrows{
+        margin-left: 10px;
+        font-weight: 600;
+        font-size: 20px;
+        padding: 10px;
+        box-shadow: 0px 4px 4px 0px rgba(63, 63, 63, 0.25);
+        background-color: #fff;
+        border-radius: 50%;
+    }
+    .about_agri {
+        display: flex;
+        margin-bottom: 80px;
+        flex-direction: column;
+        align-items: center;
+    }
+    .about_agri-img{
+        width: 236px;
+    }
+    .about_agri-text {
+        width: 337px;
+        margin-left: 0px;
+        text-align: center;
+    }
+    .seller_img {
+        width: 80px;
+        height: 80px;
+        margin: 0 auto;
+    }
+    .rectangle {
+        width: 227px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+        overflow: hidden;
+    }
+    .seller_spot {
+        display: flex;
+        justify-content: center;
+        gap: 30px;
+        margin-top: 50px;
+        margin-bottom: 30px;
+        flex-direction: column;
+        align-items: center;
+    }
+    .carl{
+        left: 100px;
+        display: none;
+    }
+    .test{
+        height: auto;
+        padding-bottom: 30px;
+    }
+    .testimonial_card{
+        gap: 20px;
+        /* flex-direction: column; */
+        align-items: center;
+    }
+    .customer{
+        flex-direction: column;
+        text-align: center;
+        width: 180px;
+    }
+    .customer_img{
+        width: 50px;
+    }
+    .customer_img img{
+        width: 100%;
+    }
+    .star_svg svg{
+        font-size: 10px;
+    }
+    .test_card{
+        width: 180px;
+        height: 300px;
+        padding-bottom: 30px;
+    }
+    .accordion-item {
+        width: 300px !important;
+    }
+    .testimonial_heading h3{
+        font-size: 22px;
+    }
+    .fifth_sect h3{
+        font-size: 22px;
+    }
+    .down_footer{
+        gap: 10px;
+        flex-direction: column;
+    }
+    footer{
+        height: auto;
+        padding-bottom: 30px;
+    }
+    .footer_link ul li a{
+        font-size: 18px;
+    }
+    .footer_link ul li a svg{
+        font-size: 25px;
+    }
+    .footer_link h3{
+        font-size: 20px;
+        margin: 0;
+        margin-top: 10px;
+    }
+    .newsletter{
+        width: 100%;
+    }
+    .newsletter h3 {
+        margin: 0 auto;
+        margin-top: 20px;
+        width: 230px;
+    }
+    .newsletter p {
+        margin: 0 auto;
+        margin-top: 20px;
+        width: 230px;
+    }
+    .input_field{
+        width: 230px;
+        margin: 0 auto;
+    }
+    .input_field input {
+        margin-left: 0px;
+    }
+    .input_field form{
+        width: 230px;
+        height: 30px;
+     }
+    .input_field button {
+        padding: 0px 5px;
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width: 425px) and (min-width: 321px) {
+    * {
+        transition: all 0.5s;
+    }
+
+    nav {
+        max-width: 425px;
+    }
+
+    .navbar {
+        gap: 70px;
+    }
+
+    .menu ul li {
+        padding: 10px 10px;
+    }
+
+    .menu ul {
+        margin: 0px 0px;
+    }
+
+    .menu ul li a {
+        color: #fff;
+    }
+
+    .menu ul li a:hover {
+        color: #FF9933;
+        cursor: pointer;
+    }
+
+    footer {
+        max-width: 425px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+    }
+
+    section {
+        max-width: 425px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+    }
+
+    .first_sect {
+        height: 100vh;
+    }
+
+    .first_ban h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .first_ban p {
+        font-size: 15px;
+    }
+
+    br {
+        display: none;
+    }
+
+    .all-sections {
+        width: 300px;
+    }
+
+    .hambuger {
+        display: block;
+    }
+
+    .hambuger.active .bar:nth-child(2) {
+        opacity: 0;
+    }
+
+    .hambuger.active .bar:nth-child(1) {
+        transform: translateY(8px) rotate(45deg);
+    }
+
+    .hambuger.active .bar:nth-child(3) {
+        transform: translateY(-8px) rotate(-45deg);
+    }
+
+    .btn {
+        display: none;
+    }
+
+    .btn2 {
+        display: block;
+        flex-direction: column;
+    }
+
+    .index {
+        margin-top: 50px;
+    }
+
+    .nav-menu {
+        position: fixed;
+        left: -100%;
+        top: 70px;
+        height: 100vh;
+        flex-direction: column;
+        gap: 2rem;
+        padding-bottom: 9rem;
+        padding-top: 2rem;
+        width: 50%;
+        text-align: center;
+        transition: 0.5s;
+        background-color: #0F6735;
+    }
+
+    .nav-menu.active {
+        left: 0;
+    }
+
+    .logo {
+        width: 100px;
+    }
+
+    .log {
+        background-color: #FF9933;
+        color: #fff;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 4px;
+        margin-bottom: 10px;
+    }
+
+    .sign {
+        background-color: #fff;
+        color: #0F6735;
+        padding: 10px 20px;
+        border: 1px solid #0F6735;
+        border-radius: 4px;
+    }
+
+    .second_section h2 {
+        font-size: 20px;
+    }
+
+    .input_field {
+        width: 200px;
+        margin: 0 auto;
+    }
+
+    .input_field input {
+        width: 150px;
+    }
+
+    .search_icon {
+        background-color: #FF9933;
+        padding: 10px;
+        border-radius: 10px;
+        font-size: 20px;
+        color: #fff;
+        cursor: pointer;
+        margin-left: 10px;
+    }
+    .all_product{
+        gap: 10px;
+    }
+    .products_slide{
+        margin-top: 30px;
+    }
+    .product_card{
+        width: 150px;
+        height: 180px;
+        background-color: #fff;
+        box-shadow: 0px 4px 4px 0px rgba(73, 73, 73, 0.25);
+        border-radius: 8px;
+    }
+    .product_img{
+        width: 150px;
+        border-radius: 8px;
+    }
+    .product_name h3{
+        margin: 0;
+        font-size: 10px;
+        font-weight: 600;
+        color: #FF9933;
+    }
+    .product_name p{
+        margin: 0;
+        font-size: 12px;
+    }
+    .carousel_arrow{
+        margin-top: 30px;
+    }
+    .arrows{
+        margin-left: 10px;
+        font-weight: 600;
+        font-size: 20px;
+        padding: 10px;
+        box-shadow: 0px 4px 4px 0px rgba(63, 63, 63, 0.25);
+        background-color: #fff;
+        border-radius: 50%;
+    }
+    .third_sect h2 {
+        font-size: 20px;
+    }
+    .about_agri {
+        display: flex;
+        margin-bottom: 80px;
+        flex-direction: column;
+        align-items: center;
+    }
+    .about_agri-img{
+        width: 236px;
+    }
+    .about_agri-text {
+        width: 250px;
+        margin-left: 0px;
+        text-align: center;
+    }
+    .seller_img {
+        width: 80px;
+        height: 80px;
+        margin: 0 auto;
+    }
+    .rectangle {
+        width: 227px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+        overflow: hidden;
+    }
+    .seller_spot {
+        display: flex;
+        justify-content: center;
+        gap: 30px;
+        margin-top: 50px;
+        margin-bottom: 30px;
+        flex-direction: column;
+        align-items: center;
+    }
+    .carl{
+        left: 100px;
+        display: none;
+    }
+    .test{
+        height: auto;
+        padding-bottom: 30px;
+    }
+    .testimonial_card{
+        gap: 20px;
+        /* flex-direction: column; */
+        align-items: center;
+    }
+    .customer{
+        flex-direction: column;
+        text-align: center;
+        width: 180px;
+    }
+    .customer_img{
+        width: 50px;
+    }
+    .customer_img img{
+        width: 100%;
+    }
+    .star_svg svg{
+        font-size: 10px;
+    }
+    .test_card{
+        width: 180px;
+        height: 300px;
+        padding-bottom: 30px;
+    }
+    .accordion-item {
+        width: 250px !important;
+    }
+    .testimonial_heading h3{
+        font-size: 20px;
+    }
+    .fifth_sect h3{
+        font-size: 20px;
+    }
+    .down_footer{
+        gap: 10px;
+        flex-direction: column;
+    }
+    footer{
+        height: auto;
+        padding-bottom: 30px;
+    }
+    .footer_link ul li a{
+        font-size: 13px;
+    }
+    .footer_link ul li a svg{
+        font-size: 20px;
+    }
+    .footer_link h3{
+        font-size: 18px;
+        margin: 0;
+        margin-top: 10px;
+    }
+    .newsletter{
+        width: 100%;
+    }
+    .newsletter h3 {
+        margin: 0 auto;
+        margin-top: 20px;
+        width: 230px;
+    }
+    .newsletter p {
+        margin: 0 auto;
+        margin-top: 20px;
+        width: 230px;
+    }
+    .input_field{
+        width: 230px;
+        margin: 0 auto;
+    }
+    .input_field input {
+        margin-left: 0px;
+    }
+    .input_field form{
+        width: 230px;
+        height: 30px;
+     }
+    .input_field button {
+        padding: 0px 5px;
+        font-size: 10px;
+    }
+    .input_fields input{
+        width: 173px;
+    }
+}
+
+@media screen and (max-width: 320px) and (min-width: 281px) {
+    * {
+        transition: all 0.5s;
+    }
+
+    .first_sect {
+        height: 100vh;
+    }
+
+    nav {
+        max-width: 320px;
+    }
+
+    .navbar {
+        gap: 70px;
+    }
+
+    .menu ul li {
+        padding: 10px 10px;
+    }
+
+    .menu ul {
+        margin: 0px 0px;
+    }
+
+    .menu ul li a {
+        color: #fff;
+    }
+
+    .menu ul li a:hover {
+        color: #FF9933;
+        cursor: pointer;
+    }
+
+    footer {
+        max-width: 320px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+    }
+
+    section {
+        max-width: 320px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+    }
+
+    .first_sect {
+        height: 100vh;
+    }
+
+    .first_ban h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .first_ban p {
+        font-size: 15px;
+    }
+
+    br {
+        display: none;
+    }
+
+    .all-sections {
+        width: 250px;
+    }
+
+    .hambuger {
+        display: block;
+    }
+
+    .hambuger.active .bar:nth-child(2) {
+        opacity: 0;
+    }
+
+    .hambuger.active .bar:nth-child(1) {
+        transform: translateY(8px) rotate(45deg);
+    }
+
+    .hambuger.active .bar:nth-child(3) {
+        transform: translateY(-8px) rotate(-45deg);
+    }
+
+    .btn {
+        display: none;
+    }
+
+    .btn2 {
+        display: block;
+        flex-direction: column;
+    }
+
+    .index {
+        margin-top: 50px;
+    }
+
+    .nav-menu {
+        position: fixed;
+        left: -100%;
+        top: 70px;
+        height: 100vh;
+        flex-direction: column;
+        gap: 2rem;
+        padding-bottom: 9rem;
+        padding-top: 2rem;
+        width: 50%;
+        text-align: center;
+        transition: 0.5s;
+        background-color: #0F6735;
+    }
+
+    .nav-menu.active {
+        left: 0;
+    }
+
+    .logo {
+        width: 80px;
+    }
+
+    .logo img {
+        width: 100%;
+    }
+
+    .log {
+        background-color: #FF9933;
+        color: #fff;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 4px;
+        margin-bottom: 10px;
+    }
+
+    .sign {
+        background-color: #fff;
+        color: #0F6735;
+        padding: 10px 20px;
+        border: 1px solid #0F6735;
+        border-radius: 4px;
+    }
+    .first_ban{
+        margin-top: 150px;
+    }
+    .second_section h2 {
+        font-size: 20px;
+    }
+
+    .input_field {
+        width: 200px;
+        margin: 0 auto;
+    }
+
+    .input_field input {
+        width: 150px;
+    }
+
+    .search_icon {
+        background-color: #FF9933;
+        padding: 10px;
+        border-radius: 10px;
+        font-size: 20px;
+        color: #fff;
+        cursor: pointer;
+        margin-left: 10px;
+    }
+    .all_product{
+        gap: 10px;
+    }
+    .products_slide{
+        margin-top: 30px;
+    }
+    .product_card{
+        width: 150px;
+        height: 180px;
+        background-color: #fff;
+        box-shadow: 0px 4px 4px 0px rgba(73, 73, 73, 0.25);
+        border-radius: 8px;
+    }
+    .product_img{
+        width: 150px;
+        border-radius: 8px;
+    }
+    .product_name h3{
+        margin: 0;
+        font-size: 10px;
+        font-weight: 600;
+        color: #FF9933;
+    }
+    .product_name p{
+        margin: 0;
+        font-size: 12px;
+    }
+    .carousel_arrow{
+        margin-top: 30px;
+    }
+    .arrows{
+        margin-left: 10px;
+        font-weight: 600;
+        font-size: 20px;
+        padding: 10px;
+        box-shadow: 0px 4px 4px 0px rgba(63, 63, 63, 0.25);
+        background-color: #fff;
+        border-radius: 50%;
+    }
+    .third_sect h2 {
+        font-size: 20px;
+    }
+    .about_agri {
+        display: flex;
+        margin-bottom: 80px;
+        flex-direction: column;
+        align-items: center;
+    }
+    .about_agri-img{
+        width: 206px;
+    }
+    .about_agri-text {
+        width: 200px;
+        margin-left: 0px;
+        text-align: center;
+    }
+    .seller_img {
+        width: 80px;
+        height: 80px;
+        margin: 0 auto;
+    }
+    .rectangle {
+        width: 227px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+        overflow: hidden;
+    }
+    .seller_spot {
+        display: flex;
+        justify-content: center;
+        gap: 30px;
+        margin-top: 50px;
+        margin-bottom: 30px;
+        flex-direction: column;
+        align-items: center;
+    }
+    .carl{
+        left: 100px;
+        display: none;
+    }
+    .test{
+        height: auto;
+        padding-bottom: 30px;
+    }
+    .testimonial_card{
+        gap: 20px;
+        /* flex-direction: column; */
+        align-items: center;
+    }
+    .customer{
+        flex-direction: column;
+        text-align: center;
+        width: 160px;
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+    .customer_img{
+        width: 50px;
+    }
+    .customer_img img{
+        width: 100%;
+    }
+    .star_svg svg{
+        font-size: 10px;
+    }
+    .test_card{
+        width: 160px;
+        height: 300px;
+        padding-bottom: 30px;
+    }
+    .accordion-item {
+        width: 200px !important;
+    }
+    .testimonial_heading h3{
+        font-size: 20px;
+    }
+    .fifth_sect h3{
+        font-size: 20px;
+    }
+    .down_footer{
+        gap: 10px;
+        flex-direction: column;
+    }
+    .feet{
+        margin-top: 50px;
+    }
+    footer{
+        height: auto;
+        padding-bottom: 30px;
+    }
+    .footer_link ul li a{
+        font-size: 13px;
+    }
+    .footer_link ul li a svg{
+        font-size: 20px;
+    }
+    .footer_link h3{
+        font-size: 18px;
+        margin: 0;
+        margin-top: 10px;
+    }
+    .newsletter{
+        width: 100%;
+    }
+    .newsletter h3 {
+        margin: 0 auto;
+        margin-top: 20px;
+        width: 230px;
+    }
+    .newsletter p {
+        margin: 0 auto;
+        margin-top: 20px;
+        width: 230px;
+    }
+    .input_fields{
+        width: 230px;
+        margin: 0 auto;
+    }
+    .input_fields input {
+        margin-left: 0px;
+    }
+    .input_fields form{
+        width: 230px;
+        height: 30px;
+     }
+    .input_fields button {
+        padding: 0px 5px;
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width: 280px) {
+    * {
+        transition: all 0.5s;
+    }
+
+    .first_sect {
+        height: 100vh;
+    }
+
+    nav {
+        max-width: 280px;
+    }
+
+    .navbar {
+        gap: 70px;
+    }
+
+    .menu ul li {
+        padding: 10px 10px;
+    }
+
+    .menu ul {
+        margin: 0px 0px;
+    }
+
+    .menu ul li a {
+        color: #fff;
+    }
+
+    .menu ul li a:hover {
+        color: #FF9933;
+        cursor: pointer;
+    }
+
+    footer {
+        max-width: 280px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+    }
+
+    section {
+        max-width: 280px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+    }
+    .first_sect {
+        height: 100vh;
+    }
+    .first_ban{
+        margin-top: 150px;
+    }
+
+    .first_ban h2 {
+        font-size: 25px;
+        line-height: 40px;
+    }
+
+    .first_ban p {
+        font-size: 12px;
+    }
+
+    br {
+        display: none;
+    }
+    .all-sections {
+        width: 190px;
+    }
+
+    .hambuger {
+        display: block;
+    }
+
+    .hambuger.active .bar:nth-child(2) {
+        opacity: 0;
+    }
+
+    .hambuger.active .bar:nth-child(1) {
+        transform: translateY(8px) rotate(45deg);
+    }
+
+    .hambuger.active .bar:nth-child(3) {
+        transform: translateY(-8px) rotate(-45deg);
+    }
+
+    .btn {
+        display: none;
+    }
+
+    .btn2 {
+        display: block;
+        flex-direction: column;
+    }
+
+    .index {
+        margin-top: 50px;
+    }
+
+    .nav-menu {
+        position: fixed;
+        left: -100%;
+        top: 70px;
+        height: 100vh;
+        flex-direction: column;
+        gap: 2rem;
+        padding-bottom: 9rem;
+        padding-top: 2rem;
+        width: 50%;
+        text-align: center;
+        transition: 0.5s;
+        background-color: #0F6735;
+    }
+
+    .nav-menu.active {
+        left: 0;
+    }
+
+    .logo {
+        width: 80px;
+    }
+
+    .logo img {
+        width: 100%;
+    }
+
+    .log {
+        background-color: #FF9933;
+        color: #fff;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 4px;
+        margin-bottom: 10px;
+    }
+
+    .sign {
+        background-color: #fff;
+        color: #0F6735;
+        padding: 10px 20px;
+        border: 1px solid #0F6735;
+        border-radius: 4px;
+    }
+    .second_section h2 {
+        font-size: 20px;
+    }
+
+    .input_field {
+        width: 200px;
+        margin: 0 auto;
+    }
+
+    .input_field input {
+        width: 150px;
+    }
+
+    .search_icon {
+        background-color: #FF9933;
+        padding: 10px;
+        border-radius: 10px;
+        font-size: 20px;
+        color: #fff;
+        cursor: pointer;
+        margin-left: 10px;
+    }
+    .all_product{
+        gap: 10px;
+    }
+    .products_slide{
+        margin-top: 30px;
+    }
+    .product_card{
+        width: 150px;
+        height: 180px;
+        background-color: #fff;
+        box-shadow: 0px 4px 4px 0px rgba(73, 73, 73, 0.25);
+        border-radius: 8px;
+    }
+    .product_img{
+        width: 150px;
+        border-radius: 8px;
+    }
+    .product_name h3{
+        margin: 0;
+        font-size: 10px;
+        font-weight: 600;
+        color: #FF9933;
+    }
+    .product_name p{
+        margin: 0;
+        font-size: 12px;
+    }
+    .carousel_arrow{
+        margin-top: 30px;
+    }
+    .arrows{
+        margin-left: 10px;
+        font-weight: 600;
+        font-size: 20px;
+        padding: 10px;
+        box-shadow: 0px 4px 4px 0px rgba(63, 63, 63, 0.25);
+        background-color: #fff;
+        border-radius: 50%;
+    }
+    .third_sect h2 {
+        font-size: 20px;
+    }
+    .about_agri {
+        display: flex;
+        margin-bottom: 80px;
+        flex-direction: column;
+        align-items: center;
+    }
+    .about_agri-img{
+        width: 206px;
+    }
+    .about_agri-text {
+        width: 200px;
+        margin-left: 0px;
+        text-align: center;
+    }
+    .seller_img {
+        width: 80px;
+        height: 80px;
+        margin: 0 auto;
+    }
+    .rectangle {
+        width: 227px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+        overflow: hidden;
+    }
+    .seller_spot {
+        display: flex;
+        justify-content: center;
+        gap: 30px;
+        margin-top: 50px;
+        margin-bottom: 30px;
+        flex-direction: column;
+        align-items: center;
+    }
+    .carl{
+        left: 100px;
+        display: none;
+    }
+    .test{
+        height: auto;
+        padding-bottom: 30px;
+    }
+    .testimonial_card{
+        gap: 20px;
+        /* flex-direction: column; */
+        align-items: center;
+    }
+    .testimonial_heading h3{
+        font-size: 20px;
+    }
+    .customer{
+        flex-direction: column;
+        text-align: center;
+        width: 160px;
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+    .customer_img{
+        width: 50px;
+    }
+    .customer_img img{
+        width: 100%;
+    }
+    .star_svg svg{
+        font-size: 10px;
+    }
+    .test_card{
+        width: 160px;
+        height: 300px;
+        padding-bottom: 30px;
+    }
+    .accordion-item {
+        width: 200px !important;
+    }
+    .fifth_sect h3{
+        font-size: 20px;
+    }
+    .down_footer{
+        gap: 10px;
+        flex-direction: column;
+    }
+    .feet{
+        margin-top: 50px;
+    }
+    footer{
+        height: auto;
+        padding-bottom: 30px;
+    }
+    .footer_link ul li a{
+        font-size: 13px;
+    }
+    .footer_link ul li a svg{
+        font-size: 20px;
+    }
+    .footer_link h3{
+        font-size: 18px;
+        margin: 0;
+        margin-top: 10px;
+    }
+    .newsletter{
+        width: 100%;
+    }
+    .newsletter h3 {
+        margin: 0 auto;
+        margin-top: 20px;
+        width: 170px;
+    }
+    .newsletter p {
+        margin: 0 auto;
+        margin-top: 20px;
+        width: 170px;
+    }
+    .input_fields{
+        width: 170px;
+        margin: 0 auto;
+    }
+    .input_fields input {
+        margin-left: 0px;
+        width: 120px;
+    }
+    .input_fields form{
+        width: 170px;
+        height: 30px;
+     }
+    .input_fields button {
+        padding: 0px 5px;
+        font-size: 8px;
+    }
+}
